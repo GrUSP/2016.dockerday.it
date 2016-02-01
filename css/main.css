@@ -706,7 +706,7 @@ a:hover.slides{
 	font-weight: 800;
 }
 
-.gold_sponsors, .silver_sponsors, .bronze_sponsors{
+.main_sponsor, .gold_sponsors, .silver_sponsors, .bronze_sponsors{
 	clear: both;
 	text-align: center;
 	margin-bottom: 60px;
