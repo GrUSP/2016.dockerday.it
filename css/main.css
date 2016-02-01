@@ -342,17 +342,18 @@ em.plus{
 
 .event_title{
 	margin-bottom: 30px;
+	text-align: center;
 }
 .event_logo {
-    text-align: right;    
+ 	text-align: right;
 }
 .event_logo img{
-    width: 100%;
-    max-width: 220px;
-    height: auto;
+	width: 100%;
+ 	max-width: 220px;
+ 	height: auto;
 }
 .event_name{
-    text-align: left;
+ 	text-align: left;
 }
 .share{
 	width: 400px;
